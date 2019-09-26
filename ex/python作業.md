@@ -80,7 +80,9 @@ print(my_numbers)
 ##### 程式設計題:完成等差數列的總和計算:1+5+9+13+ ...+81
 ```
 list1=range(1,82,4)
+
 print(sum(list(list1)))
+
 答案是:861
 
 
