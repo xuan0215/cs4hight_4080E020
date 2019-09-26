@@ -1,6 +1,7 @@
 
 
 # range的技術
+
 #### range的技術(1)
 ```
 list1=range(6)
