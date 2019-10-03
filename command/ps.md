@@ -1,6 +1,6 @@
-```
-#ps
-```
+
+# ps
+
 ```
 Usage:
  ps [options]
