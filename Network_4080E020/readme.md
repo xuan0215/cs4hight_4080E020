@@ -1,4 +1,4 @@
-#####網路硬體
+##### 網路硬體
 ```
 Layer1 --->  repeater(1-1), hub(1-N)
 Layer2 --->  bridgr, switch
@@ -6,8 +6,8 @@ Layer3 --->  router,L3-Switch
 Layer4 --->  L4 switch
 Layer7 --->  L7 switch, proxy
 ```
-#####網路協定
-###OSI MODEL
+##### 網路協定
+### OSI MODEL
 ```
 第7層 應用層（Application Layer）提供為應用軟體而設的介面，以設定與另一應用軟體之間的通訊。例如: HTTP，HTTPS，FTP，TELNET，SSH，SMTP，POP3.HTML.等。
 
