@@ -38,3 +38,16 @@ Layer7 --->  L7 switch, proxy
 11: Network Unreachable for Type of Service（無法到達此型態的網路服務）
 12: Host Unreachable for Type of Service（無法到達此型態的主機服務）
 ```
+###tracert
+```
+C:\Users\KSUIE>tracert www.ksu.edu.tw
+
+在上限 30 個躍點上
+追蹤 www.ksu.edu.tw [120.114.100.65] 的路由:
+
+  1    <1 ms    <1 ms    <1 ms  172.20.155.254
+  2    <1 ms    <1 ms    <1 ms  120-114-50-230.ksu.edu.tw [120.114.50.230]
+  3    <1 ms    <1 ms    <1 ms  eng.www.ksu.edu.tw [120.114.100.65]
+
+追蹤完成。
+```
